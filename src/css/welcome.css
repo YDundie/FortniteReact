@@ -1,0 +1,16 @@
+.siteInfo{
+    background-image: url(https://cdn2.unrealengine.com/Fortnite%2Flanding-pages%2Fseason-9-v1%2Fheader%2F08BR_Announce_KeyArt_Social-1920x1080-68df1bc7e9219d4fdd5b0bb58b7ae4f0564dfa63.jpg);
+    height: 20vh;
+    transform: rotate(-1.5deg);
+    position: relative;
+    z-index: -1;
+    top:-3vh;
+    margin-left:-2vw;
+    margin-right: -2vw;
+    overflow-x: hidden;
+    width: 110%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+    border: 4px #993399 solid;
+}

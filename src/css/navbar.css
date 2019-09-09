@@ -10,7 +10,7 @@
 }
 
 .navbar-item{
-  height: 4vh;
+  height: 6vh;
   background-color: orange;
   flex: 10;
   cursor: pointer;
@@ -21,7 +21,7 @@
 .navbar-item>a:hover,
 .navbar-item>a:active
  {
-  font-size: 2.5vh;
+  font-size: 4.5vh;
   text-shadow: 3px 2px #993399;
   color:white;
   margin: 0;
@@ -33,7 +33,7 @@
 .navbar-divider{
   display: inline;
   background-color: white;
-  height: 4vh;
+  height: 6vh;
   width: 5px;
 
 }
