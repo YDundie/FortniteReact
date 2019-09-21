@@ -3,14 +3,15 @@
     height: 20vh;
     transform: rotate(-1.5deg);
     position: relative;
-    z-index: -1;
-    top:-3vh;
+    z-index: 1;
+    top:-4vh;
     margin-left:-2vw;
     margin-right: -2vw;
     overflow-x: hidden;
-    width: 110%;
+    left:3vw;
+    width: 98%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 20%;
-    border: 4px #993399 solid;
+    border-bottom: 4px #993399 solid;
 }
